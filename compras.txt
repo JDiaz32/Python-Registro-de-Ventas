@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "",
+    "documento": 0,
+    "productos": [
+      {
+        "producto": "",
+        "cantidad": 0
+      }
+    ],
+    "descuento": 0,
+    "subTotal": 0
+  }
+]

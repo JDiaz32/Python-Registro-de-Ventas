@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Xiaomi Poco X3",
+    "precio": 750000
+  },
+  {
+    "nombre": "Motorola One Fusion",
+    "precio": 560000
+  },
+  {
+    "nombre": "Samsung Galaxy A21s",
+    "precio": 700000
+  },
+  {
+    "nombre": "Portatil Asus M413da",
+    "precio": 2200000
+  },
+  {
+    "nombre": "Portatil Asus Vivobook",
+    "precio": 3200000
+  },
+  {
+    "nombre": "Hp Torre Bundle I3-10100",
+    "precio": 3000000
+  }
+]
